@@ -1,4 +1,4 @@
-![logo](https://github.com/VSeekk/VSeekk/blob/main/github%20banner.png)
+![logo](https://github.com/VSeekk/VSeekk/blob/main/GITHUB%20BANNER1.png)
 <h1 align="center">Hi 👋, I'm E Vishnu prasad</h1>
 <h3 align="center">Aspiring Python and Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmozYWcwaWZ1cmRjMXlobHZ4ZWxyMDk3NHd3aHRyazA5Mm03Ym4zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
