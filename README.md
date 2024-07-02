@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm E Vishnu prasad</h1>
-<h3 align="center">A Aspiring Python and Web Developer</h3>
+<h3 align="center">Aspiring Python and Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmozYWcwaWZ1cmRjMXlobHZ4ZWxyMDk3NHd3aHRyazA5Mm03Ym4zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vseekk&label=Profile%20views&color=0e75b6&style=flat" alt="vseekk" /> </p>
 
